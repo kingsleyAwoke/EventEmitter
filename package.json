@@ -1,7 +1,7 @@
 {
   "name": "kingsley",
   "version": "1.0.0",
-  "description": "Portfolio website",
+  "description": "EventEmitter Practice",
   "main": "index.js",
   "scripts": {
     "start": "node index",
